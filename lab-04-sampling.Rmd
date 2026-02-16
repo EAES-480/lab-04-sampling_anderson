@@ -132,8 +132,8 @@ Fill in at least **5 variables** from this dataset:
 |----------|-------|-------------|----------------------------|
 |  ta   | deg C |air temperature|  high in summer         |
 | le  |  W m-2  | latent heat |              |
-| gpp | µmolCO2 m-2 s-1|gross primary productivity|          |
-| swc |   %  | soil water content |             |
+| gpp | µmolCO2 m-2 s-1|gross primary productivity| high in spring/summer  |
+| swc |   %  | soil water content | low in summer |
 | ts  |  deg C |soil temperature |     high in summer      |
 
 ---
